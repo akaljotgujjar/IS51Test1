@@ -21,6 +21,7 @@ import { OrdersComponent } from './orders/orders.component';
     BrowserModule,
     BrowserAnimationsModule,
     FormsModule,
+    // tslint:disable-next-line: deprecation
     HttpModule,
     MaterialDesignModule,
     SharedComponentsModule,
